@@ -7,7 +7,7 @@ You can visit the official site [here](https://eternalbox.dev/), in case you wan
 
 # Docker Install
 
-## Prerequesits
+# Prerequisites
 
 You need to install [docker](https://docs.docker.com/engine/install/) and [docker-compose](https://docs.docker.com/compose/install/)
 
