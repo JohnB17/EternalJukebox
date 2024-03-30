@@ -7,7 +7,7 @@ You can visit the official site [here](https://eternalbox.dev/), in case you wan
 
 # Docker Install
 
-# Prerequisites
+## Prerequisites
 
 You need to install [docker](https://docs.docker.com/engine/install/) and [docker-compose](https://docs.docker.com/compose/install/)
 
@@ -27,7 +27,8 @@ If you want to change the port from 8080, edit `docker-compose.yml` line 9, to b
 
 # Manual Install
 
-## Prerequisites
+### Prerequisites
+--To Be Filled--
 
 ### Java:
 ##### Windows
